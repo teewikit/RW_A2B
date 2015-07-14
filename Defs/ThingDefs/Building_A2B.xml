@@ -67,7 +67,9 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>15</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>1</Mechanism>
+            <Rubber>1</Rubber>
         </costList>
         <designationHotkey>B</designationHotkey>
         <placingDraggableDimensions>1</placingDraggableDimensions>
@@ -108,7 +110,9 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>15</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>1</Mechanism>
+            <Rubber>1</Rubber>
         </costList>
         <designationHotkey>V</designationHotkey>
     </ThingDef>
@@ -168,7 +172,9 @@
             </li>
         </comps>
         <costList>
-            <Steel>15</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>1</Mechanism>
+            <Rubber>1</Rubber>
         </costList>
         <neverMultiSelect>true</neverMultiSelect> 
         <designationHotkey>L</designationHotkey>
@@ -210,7 +216,9 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>15</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>1</Mechanism>
+            <Rubber>1</Rubber>
         </costList>
         <designationHotkey>U</designationHotkey>
     </ThingDef>
@@ -250,7 +258,9 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>20</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>2</Mechanism>
+            <Rubber>1</Rubber>
         </costList>
         <designationHotkey>P</designationHotkey>
     </ThingDef>
@@ -290,7 +300,9 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>20</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>2</Mechanism>
+            <Rubber>1</Rubber>
         </costList>
         <designationHotkey>M</designationHotkey>
     </ThingDef>
