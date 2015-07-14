@@ -6,7 +6,9 @@
 		<label>[A2B] Conveyor Belts</label>
 		<description>Allows the construction of the basic elements of the A2B conveyor belts.</description>
 		<totalCost>500</totalCost>
-		<prerequisites/>
+		<prerequisites>
+			<li>Mining</li>
+		</prerequisites>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
