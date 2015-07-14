@@ -70,7 +70,11 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>25</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>2</Mechanism>
+            <Rubber>1</Rubber>
+            <Electronics>1</Electronics>
+            <Glass>1</Glass>
         </costList>
         <designationHotkey>H</designationHotkey>
     </ThingDef>
@@ -109,7 +113,10 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>25</Steel>
+            <Parts_Steel>2</Parts_Steel>
+            <Mechanism>1</Mechanism>
+            <Rubber>1</Rubber>
+            <ReinforcedConcrete>1</ReinforcedConcrete>
         </costList>
         <placingDraggableDimensions>1</placingDraggableDimensions>
         <designationHotkey>G</designationHotkey>
@@ -139,7 +146,10 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>50</Steel>
+            <Parts_Steel>4</Parts_Steel>
+            <Mechanism>3</Mechanism>
+            <Rubber>1</Rubber>
+            <ReinforcedConcrete>2</ReinforcedConcrete>
         </costList>
         <designationHotkey>T</designationHotkey>
     </ThingDef>
@@ -181,7 +191,10 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>50</Steel>
+            <Parts_Steel>4</Parts_Steel>
+            <Mechanism>3</Mechanism>
+            <Rubber>1</Rubber>
+            <ReinforcedConcrete>2</ReinforcedConcrete>
         </costList>
         <designationCategory>None</designationCategory>
     </ThingDef>
@@ -210,7 +223,10 @@
         </comps>
         <size>(1,1)</size>
         <costList>
-            <Steel>50</Steel>
+            <Parts_Steel>4</Parts_Steel>
+            <Mechanism>3</Mechanism>
+            <Rubber>1</Rubber>
+            <ReinforcedConcrete>2</ReinforcedConcrete>
         </costList>
         <designationCategory>None</designationCategory>
     </ThingDef>
