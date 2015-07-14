@@ -1,6 +1,8 @@
 # Hardcore SK edition
 This is A2B, with minor changes for compatibility with skyarkhangel's Hardcore SK modpack. Tested in 1.8c.
 
+**Install instructions:** Just put this in your mods folder along with the other mods. Start Rimworld, enable the A2B mod and leave it last on the list. Enjoy!
+
 # A2B: conveyor belts & co.
 Is your farm submerged by rotting produces ? Is your base cluttered by enemies' corpses ? Are your colonists repeatedly slacking off ? 
 
