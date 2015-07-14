@@ -1,3 +1,5 @@
+# Hardcore SK edition
+This is A2B, with minor changes for compatibility with skyarkhangel's Hardcore SK modpack. Tested in 1.8c.
 
 # A2B: conveyor belts & co.
 Is your farm submerged by rotting produces ? Is your base cluttered by enemies' corpses ? Are your colonists repeatedly slacking off ? 
